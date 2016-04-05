@@ -1,0 +1,1 @@
+JavaScript API for the quid2-net messaging service.
